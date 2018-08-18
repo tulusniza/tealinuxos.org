@@ -46,3 +46,7 @@ Xfce merupakan dekstop environment yang ringan yang digunakan di TeaLinuxOS Papp
 ### FOSS
 
 Semua software yang digunakan dalam sistem operasi TeaLinuxOS berlisensi bebas dan kode sumber yang terbuka semua orang dapat melihat kode sumbernya, berkontribusi memperbaiki atau membuatnya lebih baik. Untuk megetahui lebih tentang FOSS (Free Open Source Software) bisa dilihat di [GNU website](http://gnu.org/).
+
+###  Variant Tea Linux Os
+
+Tea Linux mengusung dua variant arsitektur yaitu i386 atau 32 bit x64 Atau 64 bit, dan dukungan kernel dari base xubuntu 16.04 LTS (Long Them Services),dan tidak menutup kemungkinan team dari DOSCOm akan menggunakan kernel terbaru pada tahun 2018 ini seperti nenek moyang dari distro seperti ubuntu yang sudah memakai kernel V4.15, dan nantinya kemungkinan besar akan di gunakan juga pada tea linux os ini untuk lebih stabil dan banyak dukungan hardware di dalam nya untuk menunjang IT indonesia supaya lebih maju dan berkembang.
